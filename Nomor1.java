@@ -4,6 +4,7 @@ public class Nomor1{
 
            Scanner scanner = new Scanner(System.in);
 
+          
         System.out.print("Masukkan total kilometer: ");
         int totalKm = scanner.nextInt();
 
